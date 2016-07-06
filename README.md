@@ -1,5 +1,5 @@
 # ToggleThatEpisode
-script gets playback from @Kodi script tells @Sonarr to unmonitor episode. @sonarr stops looking for upgrade...
+script gets playback from Kodi script tells Sonarr to unmonitor episode. Sonarr stops looking for upgrade...
 
 		Author: Blackkatt
 		Version: 1.0.0
